@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wind-bnb/static/css/main.38d1c8f5.css",
-    "main.js": "/wind-bnb/static/js/main.3d91fd7c.js",
-    "static/js/787.5f1c2d28.chunk.js": "/wind-bnb/static/js/787.5f1c2d28.chunk.js",
-    "index.html": "/wind-bnb/index.html",
-    "main.38d1c8f5.css.map": "/wind-bnb/static/css/main.38d1c8f5.css.map",
-    "main.3d91fd7c.js.map": "/wind-bnb/static/js/main.3d91fd7c.js.map",
-    "787.5f1c2d28.chunk.js.map": "/wind-bnb/static/js/787.5f1c2d28.chunk.js.map"
+    "main.css": "/Voldrak/wind-bnb/static/css/main.38d1c8f5.css",
+    "main.js": "/Voldrak/wind-bnb/static/js/main.b5eef77b.js",
+    "static/js/787.5f1c2d28.chunk.js": "/Voldrak/wind-bnb/static/js/787.5f1c2d28.chunk.js",
+    "index.html": "/Voldrak/wind-bnb/index.html",
+    "main.38d1c8f5.css.map": "/Voldrak/wind-bnb/static/css/main.38d1c8f5.css.map",
+    "main.b5eef77b.js.map": "/Voldrak/wind-bnb/static/js/main.b5eef77b.js.map",
+    "787.5f1c2d28.chunk.js.map": "/Voldrak/wind-bnb/static/js/787.5f1c2d28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38d1c8f5.css",
-    "static/js/main.3d91fd7c.js"
+    "static/js/main.b5eef77b.js"
   ]
 }
