@@ -6,7 +6,7 @@
   <img src="./example.gif" alt="example"/>
 </p>
 
-## Hello all This is a simple Page made with react.js that show a clone off Air Bnb web page
+## Hello all! This is a little challenge made with react.js which is a small version of AirBnb website
 
 **Instructions**
 
@@ -14,7 +14,7 @@
 
 **npm i**
 
-**this will install all the library you need for run it properly**
+**this will install all the libraries you need to run it properly**
 
 <h2>Technologies used</h2>
   <ul>
@@ -35,38 +35,39 @@
   <li>Performance oriented</li>
 </ol>
 
-**This is a list of all the Funcionality**
+**This is a list of all the Funcionalities**
 
-- On the header we have a modal that shows a quick and ease search bar with a filter function for choose the room easily
-- The room will be filtered and shows only the one that respect the parameter you choose
-- On the Footer you can click on the team name for oper a modal if you would like to see other project from all of us!
+- On the header we have a modal that shows a quick and easy search bar with a filter function to choose the room easily;
+- The seachbar modale filters and shows the rooms in accordance to the parameters selected; 
+- By clicking on the Footer section you can see the member of the team who worked on this project;
 - All the features are interactive and dynamic!
 
 <h3>Made by</h3>
 <ul>
   <li>
-    <a href="https://github.com/rebecca-xm">
-      Rebecca Mollica
-    </a>
-  </li>
-  <li>
     <a href="https://github.com/floriana83">
       Floriana Domianello
     </a>
   </li>
-  <li>
-    <a href="https://github.com/MirMara">
-      Miriana Maranzano
-    </a>
-  </li>
+  
   <li>
     <a href="https://github.com/Voldrak">
       Marco Messina
     </a>
   </li>
   <li>
+    <a href="https://github.com/rebecca-xm">
+      Rebecca Mollica
+    </a>
+  </li>
+  <li>
     <a href="https://github.com/Fablizio">
       Fabrizio Cottone
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/MirMara">
+      Miriana Maranzano
     </a>
   </li>
 </ul>
