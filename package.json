@@ -1,7 +1,7 @@
 {
   "name": "wind-bnb",
   "version": "0.1.0",
-  "homepage": "http://rebecca-xm.github.io/wind-bnb/",
+  "homepage": "https://github.com/Voldrak/wind-bnb/",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^1.0.5",
